@@ -1,4 +1,4 @@
-# Laboratorio Gitlab
+# Laboratorio Github
 
 <p>En ese ejercicio he creado un repositorio en Github que he sincronizado en local. Se ha creado un documento index.html y se ha subido al repositorio todo con comandos GIT</p>
 
